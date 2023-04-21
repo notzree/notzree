@@ -1,8 +1,8 @@
 ### I'm Richard
 ***
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=notzree&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-***
 I'm studying Systems Design Engineering at the University of Waterloo
+***
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=notzree&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
