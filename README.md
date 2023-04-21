@@ -1,6 +1,12 @@
 ### I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo
+I'm studying Systems Design Engineering at the University of Waterloo.
+What I'm currently Learning:
+-Redis
+-Neural networks with Pytorch 
+-Trying to adopt react server components...
+Find out more about on my [website](https://www.richard-zhang.ca)
+
 ***
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=notzree&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
