@@ -2,9 +2,13 @@
 ***
 I'm studying Systems Design Engineering at the University of Waterloo.
 What I'm currently Learning:
--Redis
--Neural networks with Pytorch 
--Trying to adopt react server components...
+
+-Neural networks with Pytorch
+
+-Concurrency and building real-time web applications
+
+-Different web service architectures
+
 Find out more about on my [website](https://www.richard-zhang.ca)
 
 ***
