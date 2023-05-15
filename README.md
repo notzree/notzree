@@ -9,7 +9,7 @@ What I'm currently Learning:
 
 -Different web service architectures
 
-Find out more about on my [website](https://www.richard-zhang.ca)
+Find out more about me on my [website](https://www.richard-zhang.ca)
 
 ***
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=notzree&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
