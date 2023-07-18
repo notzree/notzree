@@ -3,11 +3,11 @@
 I'm studying Systems Design Engineering at the University of Waterloo.
 What I'm currently Learning:
 
--Neural networks with Pytorch
+-Web3 Development (solidity)
 
--Concurrency and building real-time web applications
+-Working towards AWS developer associate cert
 
--Different web service architectures
+-GraphQL, learning more backend tech with Go and Rust
 
 Find out more about me on my [website](https://www.richard-zhang.ca)
 
