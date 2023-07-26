@@ -7,7 +7,9 @@ What I'm currently Learning:
 
 -Working towards AWS developer associate cert
 
--GraphQL, learning more backend tech with Go and Rust
+-More backend stuff with Golang
+
+-GraphQL
 
 Find out more about me on my [website](https://www.richard-zhang.ca)
 
