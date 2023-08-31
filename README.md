@@ -1,7 +1,9 @@
 ### I'm Richard
 ***
 I'm studying Systems Design Engineering at the University of Waterloo.
+***
 Fun fact: I'm currently trying to make a Gourd Bottle
+***
 What I'm currently Learning:
 
 -Working towards AWS developer associate cert
