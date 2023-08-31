@@ -1,13 +1,12 @@
 ### I'm Richard
 ***
 I'm studying Systems Design Engineering at the University of Waterloo.
+Fun fact: I'm currently trying to make a Gourd Bottle
 What I'm currently Learning:
-
--Web3 Development (solidity)
 
 -Working towards AWS developer associate cert
 
--More backend stuff with Golang
+-More backend stuff with Go
 
 -GraphQL
 
