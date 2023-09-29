@@ -8,9 +8,9 @@ What I'm currently Learning:
 
 -Working towards AWS developer associate cert
 
--More backend stuff with Go
+-ML Engineering stuff
 
--GraphQL
+-Backend with Rust
 
 Find out more about me on my [website](https://www.richard-zhang.ca)
 
