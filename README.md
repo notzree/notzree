@@ -8,7 +8,7 @@ What I'm currently Learning:
 
 -Working towards AWS developer associate cert
 
--Rust (Terminal UIs, getting better at async + concurrent programming, buildin performant webservers)
+-Rust (Terminal UIs, getting better at async + concurrent programming, building performant webservers)
 
 
 
