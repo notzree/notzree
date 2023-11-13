@@ -8,9 +8,9 @@ What I'm currently Learning:
 
 -Working towards AWS developer associate cert
 
--ML Engineering stuff
+-Rust (Terminal UIs, getting better at async + concurrent programming, buildin performant webservers)
 
--Backend with Rust
+
 
 Find out more about me on my [website](https://www.richard-zhang.ca)
 
