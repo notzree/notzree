@@ -1,6 +1,10 @@
-### I'm Richard
+### Hi, I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo. I like coding and muay thai.
+I'm studying Systems Design Engineering at the University of Waterloo. 
+<br>
+Prev: Fullstack @ Jitto working on AWS cloud things(Cloudformation, RDS, Lambdas), some scripts leveraging parallel processing, and also API optimizations + data pipelines
+<br>
+I sometimes code and do Muay Thai.
 ***
 Fun fact: ~I'm currently trying to make a Gourd Bottle~ my gourd bottle rotted and turned brown :(
 ***
