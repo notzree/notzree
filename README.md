@@ -4,10 +4,10 @@ I'm studying Systems Design Engineering at the University of Waterloo.
 <br>
 Prev: Fullstack @ Jitto working on AWS cloud things(Cloudformation, RDS, Lambdas), some scripts leveraging parallel processing, and also API optimizations + data pipelines
 <br>
-I sometimes code and do Muay Thai.
-***
+Outside of work, I code random things and do Muay Thai.
+<br>
 Fun fact: ~I'm currently trying to make a Gourd Bottle~ my gourd bottle rotted and turned brown :(
-***
+
 What I'm currently Learning:
 
 - Backend with Rust, sometimes Go, exploring gRPC and pub/sub messaging systems
