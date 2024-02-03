@@ -1,14 +1,15 @@
 ### I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo.
+I'm studying Systems Design Engineering at the University of Waterloo. I like coding and muay thai.
 ***
-Fun fact: I'm currently trying to make a Gourd Bottle
+Fun fact: ~I'm currently trying to make a Gourd Bottle~ my gourd bottle rotted and turned brown :(
 ***
 What I'm currently Learning:
 
--Working towards AWS developer associate cert
+- Backend with Rust, sometimes Go, exploring gRPC and pub/sub messaging systems
+- Leetcode grind (backtracking, dp, graphs, etc)
+- Some Ruby on Rails 
 
--Rust (Terminal UIs, getting better at async + concurrent programming, building performant webservers)
 
 
 
