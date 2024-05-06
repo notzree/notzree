@@ -7,6 +7,9 @@ My most recent completed internship was at Jitto. I was one of 3 software engine
 - Did React
 - Did Node.js
 
+I also build side projects alot. Here is the most impressive:
+- Wikigraph: measure distance from 1 wikipedia article to another. Lots of xml parsing, bitwise operations, gRPC, and Breadth First Search
+  
 
 
 
