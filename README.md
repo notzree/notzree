@@ -1,17 +1,18 @@
 ### Hi, I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo and I'm an aspiring software engineer. My interest is in backend systems, 
+I'm studying Systems Design Engineering at the University of Waterloo. I'm interested in software, entrepreneurship, and VC money.
 
-- Prev: Fullstack @ Jitto working on AWS cloud things(Cloudformation, RDS, Lambdas), some scripts leveraging parallel processing, also API optimizations + data pipelines
+My most recent completed internship was at Jitto. I was one of 3 software engineers building their suite of web tools to deconstruct the death grip Loblaws and a few other companies have on the Canadian product market. 
+- Did AWS (RDS, Lambda, Cloudformation)
+- Did React
+- Did Node.js
 
-- Outside of work, I enjoy improving my coding skills by spending extended periods of time working on projects. I also enjoy Muay Thai. 
 
-***
-What I'm currently Learning:
 
-- Backend with Rust, sometimes Go, exploring gRPC and pub/sub messaging systems
-- Leetcode grind (backtracking, dp, graphs, etc)
-- Converting all of Wikipedia into a binary formatted graph for efficient traversal
+
+
+
+
 
 
 
