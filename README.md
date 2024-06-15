@@ -9,7 +9,7 @@ My most recent completed internship was at Jitto. I was one of 3 software engine
 I also build side projects alot. Here is my favourtie
 - Wikigraph: measure distance from 1 wikipedia article to another. Lots of xml parsing, bitwise operations, gRPC, and Breadth First Search
 
-What tech i'm most comfortable with:
+Tech I use:
 - Golang
 - Typescript
 - Node.js
