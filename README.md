@@ -1,6 +1,6 @@
 ### Hi, I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo. I'm interested in startups and golang.
+I'm studying Systems Design Engineering at the University of Waterloo. I'm interested in startups, golang, and distributed systems.
 
 My most recent completed internship was at Jitto. I was one of 3 software engineers building 3PL & more for North American grocery suppliers
 - Did AWS (RDS, Lambda, Cloudformation)
