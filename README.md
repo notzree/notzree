@@ -1,20 +1,29 @@
-### Hi, I'm Richard
+## Hi, I'm Richard
 ***
-I'm studying Systems Design Engineering at the University of Waterloo. I'm interested in startups, golang, and distributed systems.
+I'm a second year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems, and backend development. 
 
-My most recent completed internship was at Jitto. I was one of 3 software engineers building 3PL & more for North American grocery suppliers
-- Did AWS (RDS, Lambda, Cloudformation)
-- Did Node.js
+I'm currently a software engineer intern at Blendable, where I'm on the platforms team building backend insurance services. 
 
-I also build side projects alot. Here is my favourtie
-- Wikigraph: measure distance from 1 wikipedia article to another. Lots of xml parsing, bitwise operations, gRPC, and Breadth First Search
+## 🔭 I’m currently working on ...
+### side projects
+- [Measuring distances between wikipedia articles](https://github.com/notzree/wikigraph_server)
+- [A side hustle to help hire freelancers](https://www.uprank.app/)
+### Challenges
+- [Fly.io Distributed systems challenge](https://github.com/notzree/gossip-glomers)
+- [Misc famous concurrency problems](https://github.com/notzree/learn_concurrency)
 
-Tech I use:
-- Golang
-- Typescript
-- Node.js
-- AWS
-- Docker
+## 🌱 I’m currently learning ...
+- Writing concurrently structured applications in Go
+- Working with Distributed systems
+
+## 📫 I'm looking for Winter 2025 Internships - How to reach me:
+Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/) \
+Email: r29zhang@uwaterloo.ca \
+[DUPR](https://dashboard.dupr.com/dashboard/player/5873762675/profile) (if you want to run some pickleball)
+
+
+
+
 <!--
 **notzree/notzree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
