@@ -1,8 +1,8 @@
 ## Hi, I'm Richard
 ***
 I'm a second year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems, and backend development. 
-
-I'm currently a software engineer intern at Blendable, where I'm on the platforms team building backend insurance services. 
+I'm also currently a software engineer intern at Blendable, where I'm on the platforms team building backend insurance services. 
+Aside from work, I enjoy going to the gym, playing Pickleball, and backpacking
 
 ## 🔭 I’m currently working on ...
 ### side projects
