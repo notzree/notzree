@@ -18,7 +18,6 @@ Aside from work, I enjoy going to the gym, playing Pickleball, and backpacking
 
 ## 📫 (I'm looking for Winter 2025 Internships) - How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/) \
-Email: r29zhang@uwaterloo.ca \
 [DUPR](https://dashboard.dupr.com/dashboard/player/5873762675/profile) (if you want to run some pickleball)
 
 
