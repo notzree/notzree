@@ -5,11 +5,9 @@ I'm also currently a software engineer intern at Blendable, where I'm on the pla
 Aside from work, I enjoy going to the gym, playing Pickleball, and backpacking
 
 ## 🔭 I’m currently working on ...
-### side projects
-- [Distributed file storage (just started)](https://github.com/notzree/richardstore)
+- [Distributed file storage](https://github.com/notzree/richardstore)
 - [Measuring distances between wikipedia articles](https://github.com/notzree/wikigraph_server)
 - [A side hustle to help hire freelancers](https://www.uprank.app/)
-### Challenges
 - [Fly.io Distributed systems challenge](https://github.com/notzree/gossip-glomers)
 
 ## 🌱 I’m currently learning ...
