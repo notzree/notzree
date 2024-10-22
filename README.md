@@ -11,8 +11,8 @@ Aside from work, I enjoy going to the gym, playing Pickleball, and backpacking
 - [Fly.io Distributed systems challenge](https://github.com/notzree/gossip-glomers)
 
 ## 🌱 I’m currently learning ...
-- Building reliable and performant Go applications
-- Distributed Systems programming
+- distributed systems
+- building performant go applications
 
 ## 📫 (I'm looking for Winter 2025 Internships) - How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/) \
