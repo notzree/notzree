@@ -16,6 +16,7 @@ Aside from work, I enjoy going Muay thai, working out, running, and Backpacking!
 ## 🌱 I’m currently learning ...
 - distributed systems
 - building performant go applications
+- what is an ai agent
 
 ## 📫 (I'm looking for Fall 2025 sept - dec Internships) - How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/) \
