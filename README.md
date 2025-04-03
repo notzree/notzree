@@ -11,7 +11,7 @@ Aside from work, I enjoy going Muay thai, working out, running, and Backpacking!
 ## 🔭 I’m currently working on ...
 - Symphonic labs!
 - [Distributed file storage](https://github.com/notzree/richardstore)
-- [Measuring distances between wikipedia articles](https://github.com/notzree/wikigraph_server)
+- [Measuring distances between wikipedia articles](https://wikigraph-client.vercel.app/)
 
 ## 🌱 I’m currently learning ...
 - distributed systems
