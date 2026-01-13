@@ -1,21 +1,20 @@
 ## Hi, I'm Richard
 ***
-I'm a third year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems, and backend development.
-I'm an incoming software engineer intern at [maxima](https://maximahq.com/). I'm was previously a software engineer intern at Blendable, where I'm was on the platforms team building backend insurance services (ACH payments, observability).
+I'm a third year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems and agents..
+I'm an incoming software engineer intern at [maxima](https://maximahq.com/). I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
 Aside from work, I enjoy going Muay thai, working out, running, and Backpacking! 
 
 ## 🔭 I’m currently working on ...
-- getting ready to intern at [maxima](https://maximahq.com/) in the fall
-- [Distributed file storage](https://github.com/notzree/richardstore)
-- [Measuring distances between wikipedia articles](https://wikigraph-client.vercel.app/)
+- Preparing to exchange to singapore!
+- Building [background agent orchestration systems](https://github.com/notzree/forgev2)
+- [Distributed file store](https://github.com/notzree/richardstore)
 
 ## 🌱 I’m currently learning ...
-- distributed systems
-- building performant go applications
-- what is an ai agent
+- Rust
+- How to perfect my vibecoding stack (currently on zed + claude code + claude code web)
 
 ## 📫 (I'm looking for Summer 2026 Internships) - How to reach me:
-Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/) \
+Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/)
 
 
 
