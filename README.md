@@ -1,7 +1,7 @@
 ## Hi, I'm Richard
 ***
-I'm a third year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems and agents..
-I'm an incoming software engineer intern at [maxima](https://maximahq.com/). I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
+I'm a fourth year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems and agents.
+I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
 Aside from work, I enjoy going Muay thai, working out, running, and Backpacking! 
 
 ## 🔭 I’m currently working on ...
