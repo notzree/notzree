@@ -1,8 +1,10 @@
 ## Hi, I'm Richard
 ***
-I'm a fourth year Systems Design Engineering student at the University of Waterloo. I'm interested in golang, distributed systems and agents.
+I'm a fourth year Systems Design Engineering student at the University of Waterloo and an incoming Software Engineering Intern at Cloudflare ☁️ on the Caching team.
+I'm interested in rust, distributed systems, and ML inference.
+
 I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
-Aside from work, I enjoy going Muay thai, working out, running, and Backpacking! 
+Aside from work, I enjoy Muay Thai, lifting, and camping!
 
 ## 🔭 I’m currently working on ...
 - Preparing to exchange to singapore!
@@ -11,9 +13,9 @@ Aside from work, I enjoy going Muay thai, working out, running, and Backpacking!
 
 ## 🌱 I’m currently learning ...
 - Rust
-- How to perfect my vibecoding stack (currently on zed + claude code + claude code web)
+- unlocking S-tier vibecoding stack
 
-## 📫 (I'm looking for Summer 2026 Internships) - How to reach me:
+## 📫 (I'm looking for Fall 2026 Internships) - How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/)
 
 
