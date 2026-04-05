@@ -5,16 +5,6 @@ I'm interested in rust, distributed systems, and ML inference.
 
 I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
 Aside from work, I enjoy Muay Thai, lifting, and camping!
-
-## 🔭 I’m currently working on ...
-- Preparing to exchange to singapore!
-- Building [background agent orchestration systems](https://github.com/notzree/forgev2)
-- [Distributed file store](https://github.com/notzree/richardstore)
-
-## 🌱 I’m currently learning ...
-- Rust
-- unlocking S-tier vibecoding stack
-
 ## 📫 (I'm looking for Fall 2026 Internships) - How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/)
 
