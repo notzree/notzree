@@ -1,7 +1,7 @@
 ## Hi, I'm Richard
 ***
 I'm a final year Systems Design Engineering student at the University of Waterloo. I'm interested in rust, distributed systems, and inference engineering.
-After graduation, I'll be joining Cloudflare on the Workers AI team as an inference engineer ☁️.
+After graduation, I'll be joining Cloudflare on the Workers AI team as an inference engineer ☁️
 
 Previously I.. 
 
