@@ -4,6 +4,7 @@ I'm a final year Systems Design Engineering student at the University of Waterlo
 After graduation, I'll be joining Cloudflare on the Workers AI team as an inference engineer ☁️.
 
 Previously I.. 
+
 was a systems engineering intern on the Speed team at Cloudflare. I worked on a new early hints implementation for FL2, our Rust based next-gen reverse web proxy.
 was a software engineering intern working on applied ai in accounting at Maxima. I worked on tooling & infrastructure for durable agents to perform fluctuation analysis, read & search financial reports.
 
