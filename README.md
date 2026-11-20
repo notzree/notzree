@@ -1,12 +1,15 @@
 ## Hi, I'm Richard
 ***
-I'm a fourth year Systems Design Engineering student at the University of Waterloo and a Systems Engineering Intern at Cloudflare ☁️ on the Caching team.
-I'm interested in rust, go, and distributed systems.
+I'm a final year Systems Design Engineering student at the University of Waterloo. I'm interested in rust, distributed systems, and inference engineering.
+After graduation, I'll be joining Cloudflare on the Workers AI team as an inference engineer ☁️.
 
-I'm was previously a software engineer intern at Maxima, where I was on the Flux team building AI Agents for accounting.
-Aside from work, I enjoy Muay Thai, lifting, and camping!
+Previously I.. 
+was a systems engineering intern on the Speed team at Cloudflare. I worked on a new early hints implementation for FL2, our Rust based next-gen reverse web proxy.
+was a software engineering intern working on applied ai in accounting at Maxima. I worked on tooling & infrastructure for durable agents to perform fluctuation analysis, read & search financial reports.
 
-## 📫 (I'm looking for New Grad SWE roles) - How to reach me:
+Aside from work, I enjoy running, lifting, camping, and djing. 
+
+## 📫 How to reach me:
 Linkedin: [https://www.linkedin.com/in/rz2004/](https://www.linkedin.com/in/rz2004/)
 
 
